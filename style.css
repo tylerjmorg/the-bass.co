@@ -29,13 +29,13 @@ div {
 h1 {
   font-family: Helvetica;
   margin-top: 20px;
-  font-size: 45px;
+  font-size: 2.81rem;
 }
 
 .title {
   font-family: Helvetica;
   margin-top: 20px;
-  font-size: 35px;
+  font-size: 2.19rem;
   text-align: center;
   color: #FFFFFF;
   font-weight: bold;
@@ -56,14 +56,13 @@ h2 {
   text-align: center;
   color: #FFFFFF;
   margin-top: 50px;
-  font-size: 25px;
+  font-size: 1.56rem;
 }
 
 .social-button {
   cursor: pointer;
   max-width: 750px;
   width: 95%;
-  height: 60px;
   display: flex;
   justify-content: center;
   text-decoration: none;
@@ -71,7 +70,7 @@ h2 {
   text-align: center;
   color: #454D51;
   margin: auto;
-  font-size: 17px;
+  font-size: 1.06rem;
   margin-bottom: 20px;
   border: none;
   background-color: #d8d7d6;
@@ -93,7 +92,7 @@ h2 {
   font-family: Helvetica;
   font-weight: normal;
   text-align: center;
-  font-size: 14px;
+  font-size: 0.88rem;
   margin-top: 60px;
   color: #FFFFFF;
 }
@@ -102,6 +101,6 @@ h2 {
   font-family: Helvetica;
   font-weight: normal;
   text-align: center;
-  font-size: 12px;
+  font-size: 0.75rem;
   color: #FFFFFF;
 }
